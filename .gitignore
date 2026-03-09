@@ -1,0 +1,5 @@
+cam_env/
+__pycache__/
+*.pyc
+*.jpg
+*.png

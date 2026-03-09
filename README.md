@@ -32,7 +32,7 @@ It uses computer vision to detect hand gestures and trigger camera actions.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/GestureCam-AI.git
+git clone https://github.com/Om-18/GestureCam-AI.git
 cd GestureCam-AI
 ```
 

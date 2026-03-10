@@ -1,5 +1,6 @@
-Venv/
+venv/
+.venv/
 __pycache__/
 *.pyc
-*.jpg
-*.png
+*.pyo
+*.log

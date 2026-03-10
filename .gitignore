@@ -1,4 +1,4 @@
-cam_env/
+Venv/
 __pycache__/
 *.pyc
 *.jpg
